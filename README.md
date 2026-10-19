@@ -1,12 +1,12 @@
 # Zoe (Xiaojin) Lan
 
-**AI Applications · Data Analytics · Process Automation**
+**Technical Business Analyst · AI Applications · Intelligent Automation**
 
 MS in Operations Research, Columbia University · New York, USA  
 BSc in Systems Engineering and Design (Honours), SUTD · Singapore  
 [LinkedIn](https://www.linkedin.com/in/lanzoe)
 
-I'm interested in applying AI and data to solve business problems and improve workflows. Open to opportunities across AI solutions, implementation, product and analytics in Singapore.
+Graduate Associate at SS&C Technologies, working on operations analysis, process improvement and AI projects. Open to opportunities across AI solutions, implementation, product and analytics in Singapore.
 
 ## Selected projects
 
