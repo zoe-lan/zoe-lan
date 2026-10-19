@@ -2,7 +2,9 @@
 
 **Technical Business Analyst · AI Solutions & Implementation · Intelligent Automation**
 
-M.S. Operations Research (Data Analytics), Columbia University · B.Sc. Systems Engineering and Design (Honours), SUTD · Singapore · [LinkedIn](https://www.linkedin.com/in/lanzoe)
+M.S. Operations Research (Data Analytics), Columbia University
+B.Sc. Systems Engineering and Design (Honours), SUTD · Singapore
+[LinkedIn](https://www.linkedin.com/in/lanzoe)
 
 I translate complex operational requirements into automated, AI-enabled workflows that improve accuracy, speed and control. As an AI Operations Analyst at SS&C Technologies, I automated monthly reconciliation of 30,000+ multi-currency transactions across 30+ funds, reducing items requiring manual review from approximately 20% to under 2%, and built a GPT-4o–powered copilot that shortened response drafting time from 4.2 minutes to 8 seconds. Previously, I contributed to LLM-powered products at TikTok and to enterprise support automation at Microsoft.
 
